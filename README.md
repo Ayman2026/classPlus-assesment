@@ -184,7 +184,8 @@ src/
 
 ## Screenshots
 
-> _Add screenshots of the Login, Home, Editor, and Premium Modal screens here._
+<img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/9803c8c9-dd48-45d3-ba0c-99b0bbdd6033" />
+
 
 ---
 
