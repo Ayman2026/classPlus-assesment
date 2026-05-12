@@ -180,6 +180,10 @@ src/
 └── index.css                   # Design system & global styles
 ```
 
+## Video Demo
+
+[Watch the GreetWish App Walkthrough](https://drive.google.com/file/d/1t4__Xz01uGJR2a4AbihkA54uak_xUv0l/view?usp=sharing)
+
 ---
 
 ## Screenshots
